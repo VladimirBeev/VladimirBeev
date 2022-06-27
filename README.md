@@ -8,7 +8,7 @@
 
 - 🌱 I’m learning **C# .NET**
 
-<h3 align="left">Connect with me:</h3>https://www.linkedin.com/in/vladimir-beev-65a83323b/
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
