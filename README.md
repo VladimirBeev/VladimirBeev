@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vladimir Beev</h1>
-<h3 align="center">A passionate C# developer from BULGARIA</h3>
+<h3 align="center">I'm an Electrical Engineer, working in automotive industry like Altomation Engineer.
+  Learning C#.net</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladimirbeev&label=Profile%20views&color=0e75b6&style=flat" alt="vladimirbeev" /> </p>
 
 - 🔭 I’m currently working in **Automotive industry**
 
-- 🌱 I’m currently learning **C# .NET**
+- 🌱 I’m learning **C# .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
