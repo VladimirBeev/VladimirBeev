@@ -9,7 +9,7 @@
 - 🌱 I’m learning **C# .NET**
 
 <h3 align="left">Connect with me:</h3><p>
-  <a href="https://www.linkedin.com/in/vladimir-beev-65a83323b/" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/vladimir-beev-65a83323b/" rel="">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
 <p align="left">
