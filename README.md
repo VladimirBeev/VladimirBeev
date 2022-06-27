@@ -8,7 +8,7 @@
 
 - 🌱 I’m learning **C# .NET**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/vladimir-beev-65a83323b/
 <p align="left">
 </p>
 
