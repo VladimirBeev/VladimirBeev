@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in **Automotive industry**
 
-- 🌱 I’m learning **C# .NET**
+- 🌱 I’m learning **C# .NET** MSSQL
 
 <h3 align="left">Connect with me:</h3><p>
   <a href="https://www.linkedin.com/in/vladimir-beev-65a83323b/" rel="">
