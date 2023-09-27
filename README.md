@@ -7,8 +7,6 @@ An independent C# Web Development working with ASP.NET MVC, MS SQL Server and En
 
 - 🔭 I’m currently working in **Automotive industry**
 
-- 🌱 I’m learning **C# .NET** MSSQL
-
 <h3 align="left">Connect with me:</h3><p>
   <a href="https://www.linkedin.com/in/vladimir-beev-65a83323b/" rel="">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
