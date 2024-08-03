@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladimir Beev</h1>
-<h3 align="center">I am an enthusiastic, self-motivated, responsible and hard working person. 
-An independent C# Web Development working with ASP.NET MVC, MS SQL Server and Entity Framework. Reliable and strives to go above and beyond to deliver a project that meets and exceeds expectations of the client. Excellent team player.
-  Learning C#.net</h3>
+<h3 align="center">An independent C# Web Development working with ASP.NET MVC, MS SQL Server and Entity Framework, HTML, CSS, JAVASCRIPT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladimirbeev&label=Profile%20views&color=0e75b6&style=flat" alt="vladimirbeev" /> </p>
 
