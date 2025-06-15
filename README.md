@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladimir Beev</h1>
-<h3 align="center">An independent C# Web Development working with ASP.NET MVC, MS SQL Server and Entity Framework, HTML, CSS, JAVASCRIPT</h3>
+<h3 align="center">An independent C# Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladimirbeev&label=Profile%20views&color=0e75b6&style=flat" alt="vladimirbeev" /> </p>
 
